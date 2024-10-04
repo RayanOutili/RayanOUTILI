@@ -1,7 +1,7 @@
 ## 👦🏻 About Me :
-🔭 Computer science student at IUT Nice Côte d'Azur.
+🔭 Computer science student at Polytech Nice Sophia.
 <br>
-⚡ Currently learning TypeScript, Angular & C#. 
+⚡ Currently learning Angular. 
 <br>
 🌐 My portfolio at [rayan-outili.fr](https://rayan-outili.fr)
 
