@@ -1,34 +1,26 @@
-## 👦🏻 About Me :
-🔭 Computer science student at Polytech Nice Sophia.
-<br>
-⚡ Currently learning Angular. 
-<br>
-🌐 My portfolio at [rayan-outili.fr](https://rayan-outili.fr)
+## Hi, I'm Rayan 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=2F81F7&vCenter=true&width=520&lines=Java+%26+Spring+Boot+on+the+back+end;Angular+on+the+front;Building+Atlas+Party+%F0%9F%8C%8D)](https://atlas.rayan-outili.fr)
 
+Final-year software engineering student at Polytech Nice Sophia, and apprentice developer the rest of the time.
+Mostly Java and Spring Boot on the back end, Angular on the front.
 
-## 💻 Tech Stack :
+### What I'm working on
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+**🌍 [Atlas Party](https://atlas.rayan-outili.fr)**
 
+My geography party game, made for game nights with friends. The game runs on the TV and everyone plays from their phone: draw countries from memory, drop pins on a blank map, bluff your friends.
 
+**[▶ Play it](https://atlas.rayan-outili.fr)**
 
-## 📊 GitHub Stats :
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanOUTILI&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="width: auto; height: 150px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayanOUTILI&theme=gotham&hide_border=false" alt="GitHub Streak" style="width: auto; height: 150px;" />
-</div>
+### Tech I use
 
+[![Tech I use](https://skillicons.dev/icons?i=java,spring,angular,ts,react,nodejs,postgres,docker,kubernetes,git,linux)](https://skillicons.dev)
 
+### GitHub stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RayanOUTILI&theme=gotham)
+
+### Find me
+
+[rayan-outili.fr](https://rayan-outili.fr) · [LinkedIn](https://www.linkedin.com/in/rayan-outili/)
